@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm mohammedaslwiy
 
-<!--
-**mohammedaslwiy/mohammedaslwiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a computer science student learning Java and building my programming foundations.
 
-Here are some ideas to get you started:
+## Current focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java basics, methods, classes and arrays
+- Small console projects with clear instructions
+- Learning to organize code and document changes with Git
+
+## Learning archive
+
+[Java learning examples](https://github.com/mohammedaslwiy/Moi): earlier practice
+with methods, console output, control flow, a calculator and a point class.
+
+My next step is a small Book Tracker project, developed and explained step by step.
+
+<!-- This profile text was drafted with a coding assistant. -->
