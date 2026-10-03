@@ -1,4 +1,4 @@
-# Hi, I'm mohammedaslwiy
+# Hi, I'm mohammed abdulwareth
 
 I am a computer science student learning Java and building my programming foundations.
 
