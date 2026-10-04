@@ -11,14 +11,15 @@ how technology works, and I put what I learn into practice through projects.
 - **Programming:** Java, object-oriented programming and writing clear, structured code.
 - **Algorithms and data structures:** arrays, searching, sorting and problem-solving.
 - **Computer science foundations:** mathematics, logic and computer systems.
-- **Systems and tools:** networking fundamentals, Linux and the command line.
-- **Development workflow:** Git, GitHub, testing and project documentation.
+- **Systems and tools:** Linux, Bash scripting, networking fundamentals and containers with Podman and Compose.
+- **Development workflow:** Git, GitHub, GitLab, testing, automated CI checks and project documentation.
 
 ## Projects & practice
 
 | Repository | What it contains |
 | --- | --- |
 | [Book Tracker](https://github.com/mohammedaslwiy/book-tracker) | A Java learning project for managing books, tracking reading progress, searching, sorting and saving data to CSV. Includes documentation and behavioral tests. |
+| [Linux Web Analytics Lab](https://github.com/mohammedaslwiy/linux-web-analytics-lab) | A university project from Praktische Grundlagen der Informatik, originally developed on GitLab. Uses Bash, Podman and Compose to configure an Nginx demo website, Umami analytics and PostgreSQL, with setup documentation and automated configuration and script checks. |
 | [Java Learning Archive](https://github.com/mohammedaslwiy/Moi/tree/main/learning-java) | Earlier learning examples covering methods, console output, control flow, a calculator and classes. |
 
 ## My learning approach
@@ -30,5 +31,10 @@ strong computer science foundations and improving through practical work.
 Book Tracker was developed with coding-assistant support as a learning project.
 Its [learning and authorship notes](https://github.com/mohammedaslwiy/book-tracker/blob/main/PROVENANCE.md)
 describe the starting implementation and personal contributions.
+
+Linux Web Analytics Lab connects my university coursework with practical systems
+work. Its [portfolio notes](https://github.com/mohammedaslwiy/linux-web-analytics-lab/blob/main/docs/portfolio-changes.md)
+document the original project, the preparation for GitHub with coding-assistant
+support and the validation performed so far.
 
 <!-- Profile text drafted with a coding assistant. -->
